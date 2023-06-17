@@ -34,4 +34,12 @@ p, ul, h2, h3 {
   margin-left: 10%;
 }
 
+.center_element {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
 /*# sourceMappingURL=styles.css.map */

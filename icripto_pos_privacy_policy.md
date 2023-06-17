@@ -1,5 +1,5 @@
 ---
-title: Icripto POS Privacy Policy
+description: Icripto POS Privacy Policy
 ---
 
 <h1>Icripto POS Privacy Policy</h1>

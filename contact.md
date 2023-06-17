@@ -1,10 +1,8 @@
 ---
-title: Contacto
+description: Cómo contactarme
 ---
 
-<br><br>
-
-# Cómo contactarme
+<h1>Cómo contactarme</h1>
 <br>
 <div style="display: flex; justify-content: center;">
 Email:&nbsp;<a href="mailto:felipe.brunet@gmail.com">felipe.brunet@gmail.com</a>

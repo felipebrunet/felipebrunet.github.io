@@ -2,7 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/felipe.html</loc>
-<lastmod>2023-06-16T22:44:08-04:00</lastmod>
+<lastmod>2023-06-17T00:57:29-04:00</lastmod>
+</url>
+<url>
+<loc>/2023/06/14/plugin-bitcoin-lightning-wordpress.html</loc>
+<lastmod>2023-06-14T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>/2023/06/14/sitio-bitpoint-burger.html</loc>
@@ -11,6 +15,9 @@
 <url>
 <loc>/2023/06/14/terminal-de-pago-icripto.html</loc>
 <lastmod>2023-06-14T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/bitcoin_lightning.html</loc>
 </url>
 <url>
 <loc>/blog.html</loc>

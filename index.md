@@ -1,8 +1,8 @@
 ---
-title: Home
+description: Perfil profesional de Felipe Brunet
 ---
 
-<h1>Pagina profesional de Felipe Brunet</h1>
+<h1>Perfil profesional de Felipe Brunet</h1>
 <br>
 <br>
 <p style="margin-right: 10%; margin-left: 10%;">
@@ -14,7 +14,7 @@ Mis áreas son el desarrollo Web, desarrollo Android, y también la tecnología 
 
 
 <ul>
-<li><a href="/blog.html">Proyectos</a></li><br>
-<li><a href="/staff.html">Acerca de mí</a></li><br>
-<li><a href="/contact.html" target="_blank">Contacto</a></li><br>
+<li><a href="/blog.html">Proyectos<br/><br/></a></li>
+<li><a href="/staff.html">Acerca de mí<br/><br/></a></li>
+<li><a href="/contact.html">Contacto<br/><br/></a></li>
 </ul>

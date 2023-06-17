@@ -1,6 +1,7 @@
 ---
 layout: post
 author: felipe
+status: done
 ---
 Proyecto sitio bitpointburger.cl. Sitio wordpress de venta de burgers en formato pickup.
 
@@ -10,6 +11,6 @@ Sitio enfocado para celulares.
 <br><br><br>
 
 <div>
-<iframe src="https://www.bitpointburger.cl" title="Sitio Bitpoint Burger" width="300" height="600">
+<iframe src="https://www.bitpointburger.cl" title="Sitio Bitpoint Burger" width="400" height="600">
 </iframe>
 </div>
