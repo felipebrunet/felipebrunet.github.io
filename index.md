@@ -3,7 +3,7 @@ description: Perfil profesional de Felipe Brunet
 ---
 
 
-<h1 align="center">Hola! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hola! <img src="/assets/images/hello.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Bienvenidos a mi sitio</b><br><br>
@@ -47,13 +47,13 @@ description: Perfil profesional de Felipe Brunet
 <!-- <details> -->
 <p align="center">
   <a href="https://github.com/felipebrunet">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" />
   </a>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipebrunet&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/felipebrunet">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipebrunet&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipebrunet&theme=transparent" />
   </a>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrunet&langs_count=10"/>
