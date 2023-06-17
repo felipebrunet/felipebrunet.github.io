@@ -2,16 +2,16 @@
 title: Icripto POS Privacy Policy
 ---
 
-# Icripto POS Privacy Policy
+<h1>Icripto POS Privacy Policy</h1>
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 
-We do not use nor collect your Personal Data. 
+<p>We do not use nor collect your Personal Data.</p>
 
 <h2>Interpretation and Definitions</h2>
 
 <h3>Interpretation</h3>
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
 
 <h3>Definitions</h3>
 
@@ -70,7 +70,7 @@ The words of which the initial letter is capitalized have meanings defined under
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="650c06170c15110a060d0c0900250208040c094b060a08">icriptochile@gmail.com</a></li>
+<li>By email: <a href="mailto:icriptochile@gmail.com">icriptochile@gmail.com</a></li>
 </ul>
 
 <div class="footer">
