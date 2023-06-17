@@ -11,16 +11,16 @@ description: Perfil profesional de Felipe Brunet
         Soy Felipe.<br>
         Mis áreas son el desarrollo Web, desarrollo Android, y también la tecnología lightning de pagos instantáneos de bitcoin.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/felipebrunet/">
+    <a href="https://www.linkedin.com/in/felipebrunet/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>&nbsp;
-    <a href="mailto:felipe.brunet@gmail.com">
+    <a href="mailto:felipe.brunet@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>&nbsp;
-    <a href="https://wa.me/56975716284">
+    <a href="https://wa.me/56975716284" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-darkblue?style=for-the-badge&logo=whatsapp" alt="LeetCode">
     </a>&nbsp;
-    <a href="https://t.me/sandbeach123">
+    <a href="https://t.me/sandbeach123" target="_blank">
         <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>&nbsp;
 </p>
@@ -56,7 +56,7 @@ description: Perfil profesional de Felipe Brunet
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipebrunet&theme=transparent" />
   </a>
   <a href="https://github.com/felipebrunet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrunet&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrunet&langs_count=10"/>
   </a>
 </p>
 <!-- </details> -->
