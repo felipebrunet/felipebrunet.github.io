@@ -25,6 +25,13 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+p, ul, h2, h3 {
+  margin-right: 10%;
+  margin-left: 10%;
 }
 
 /*# sourceMappingURL=styles.css.map */
