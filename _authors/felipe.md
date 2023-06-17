@@ -5,9 +5,10 @@ degree: Ingeniero Civil Industrial Mecánico, PUC (2012)
 ---
 <p>Tengo experiencia en Construcción y administración de proyectos de obras civiles de combustibles. 
 Desde 2018 he cambiado mi enfoque y he seguido el análisis de datos y el uso de herramientas de Business Intelligence.
+Ya en 2021 me dedico 100% como programador.
 </p>
 
-<p>Ahora estoy enfocado en el desarrollo de aplicaciones Android y Web, usando el proyecto 
+<p>Ahora estoy enfocado en el desarrollo de aplicaciones Android y Web. 
 </p>
 <p>Los lenguajes y herramientas que uso son:
 </p>
