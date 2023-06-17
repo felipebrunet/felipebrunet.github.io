@@ -1,6 +1,0 @@
----
-title: Proyectos
----
-
-# Proyectos realizados
-

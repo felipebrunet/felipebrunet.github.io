@@ -1,14 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-15T19:11:23-04:00</updated><id>/feed.xml</id><entry><title type="html">Apples</title><link href="/2023/06/14/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2023-06-14T00:00:00-04:00</published><updated>2023-06-14T00:00:00-04:00</updated><id>/2023/06/14/apples</id><content type="html" xml:base="/2023/06/14/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-16T20:15:31-04:00</updated><id>/feed.xml</id><entry><title type="html">Sitio Bitpoint Burger</title><link href="/2023/06/14/sitio-bitpoint-burger.html" rel="alternate" type="text/html" title="Sitio Bitpoint Burger" /><published>2023-06-14T00:00:00-04:00</published><updated>2023-06-14T00:00:00-04:00</updated><id>/2023/06/14/sitio-bitpoint-burger</id><content type="html" xml:base="/2023/06/14/sitio-bitpoint-burger.html"><![CDATA[<p>Proyecto sitio bitpointburger.cl. Sitio wordpress de venta de burgers en formato pickup.</p>
 
-<p>Apple trees are cultivated worldwide, and are the most widely grown
-species in the genus Malus. The tree originated in Central Asia, where
-its wild ancestor, Malus sieversii, is still found today. Apples have
-been grown for thousands of years in Asia and Europe, and were brought
-to North America by European colonists.</p>]]></content><author><name>felipe</name></author><summary type="html"><![CDATA[An apple is a sweet, edible fruit produced by an apple tree.]]></summary></entry><entry><title type="html">Bananas</title><link href="/2023/06/14/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2023-06-14T00:00:00-04:00</published><updated>2023-06-14T00:00:00-04:00</updated><id>/2023/06/14/bananas</id><content type="html" xml:base="/2023/06/14/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several
-kinds of large herbaceous flowering plants in the genus Musa.</p>
+<p>Este sitio fue hecho con Wordpress, Woocommerce y el minimo de plugins, con el fin de que sea lo mas ligero y rapido posible.
+Incluye los medios de pago tradicionales y pago con bitcoin, mediante plugin de BTCPay, que envia los pagos directamente a la billetera del establecimiento.
+Sitio enfocado para celulares.
+<br /><br /><br /></p>
 
-<p>In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size,
-color, and firmness, but is usually elongated and curved, with soft
-flesh rich in starch covered with a rind, which may be green, yellow,
-red, purple, or brown when ripe.</p>]]></content><author><name>felipe</name></author><summary type="html"><![CDATA[A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.]]></summary></entry></feed>
+<div>
+<iframe src="https://www.bitpointburger.cl" title="Sitio Bitpoint Burger" width="300" height="600">
+</iframe>
+</div>]]></content><author><name>felipe</name></author><summary type="html"><![CDATA[Proyecto sitio bitpointburger.cl. Sitio wordpress de venta de burgers en formato pickup.]]></summary></entry><entry><title type="html">Terminal De Pago Icripto</title><link href="/2023/06/14/terminal-de-pago-icripto.html" rel="alternate" type="text/html" title="Terminal De Pago Icripto" /><published>2023-06-14T00:00:00-04:00</published><updated>2023-06-14T00:00:00-04:00</updated><id>/2023/06/14/terminal-de-pago-icripto</id><content type="html" xml:base="/2023/06/14/terminal-de-pago-icripto.html"><![CDATA[<p>Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o incluso una Lightning Address.</p>
+
+<p>Links asociados: 
+<br /></p>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=cl.icripto.icriptopos" target="_blank">URL Play Store</a></li>
+<li><a href="https://github.com/felipebrunet/icriptopos" target="_blank">Repositorio Github</a></li>
+</ul>
+<div>
+<br />
+Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).
+<br /><br />
+De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets.
+La app posee un pin de seguridad que es determinado por el usuario propietario, con lo que es seguro configurar cualquier dispositivo android con la app, pudiendo configurarse varios dispositivos para el mismo servicio o cuenta de bitcoin.
+Finalmente, esta app no se conecta con ningun servicio que no sea el definido por el usuario, con lo que la seguridad y privacidad de los datos del usuario y sus clientes se mantiene intacta. 
+</div>
+
+<p><br /><br /><br /></p>
+<h2 style="display: flex; justify-content: center;">Screenshots de la app</h2>
+<div class="gallery">
+    <img src="/assets/images/icripto_main.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_btcpay.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_buda_qr.jpg" alt="gallery-pic1" />
+</div>
+<div class="gallery">
+    <img src="/assets/images/icripto_buda_setup.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_pin_creation.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_pin_typing.jpg" alt="gallery-pic1" />
+</div>
+<div class="gallery">
+    <img src="/assets/images/icripto_btcpay_setup.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_lnbits_setup.jpg" alt="gallery-pic1" />
+    <img src="/assets/images/icripto_tips.jpg" alt="gallery-pic1" />
+</div>]]></content><author><name>felipe</name></author><summary type="html"><![CDATA[Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o incluso una Lightning Address.]]></summary></entry></feed>

@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/felipe.html</loc>
-<lastmod>2023-06-15T19:11:23-04:00</lastmod>
+<lastmod>2023-06-16T20:15:31-04:00</lastmod>
 </url>
 <url>
-<loc>/2023/06/14/apples.html</loc>
+<loc>/2023/06/14/sitio-bitpoint-burger.html</loc>
 <lastmod>2023-06-14T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>/2023/06/14/bananas.html</loc>
+<loc>/2023/06/14/terminal-de-pago-icripto.html</loc>
 <lastmod>2023-06-14T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -26,9 +26,6 @@
 </url>
 <url>
 <loc>/</loc>
-</url>
-<url>
-<loc>/projects.html</loc>
 </url>
 <url>
 <loc>/staff.html</loc>
