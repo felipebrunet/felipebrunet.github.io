@@ -3,14 +3,17 @@ description: Perfil profesional de Felipe Brunet
 ---
 
 
-<h1 align="center">Hola! <img src="/assets/images/hello.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hola!<img src="/assets/images/hello.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Bienvenidos a mi sitio</b><br><br>
     <i>
-        Soy Felipe.<br>
-        Mis áreas son el desarrollo Web, desarrollo Android, y también la tecnología lightning de pagos instantáneos de bitcoin.<br>
+        Soy Felipe Brunet.<br>
+        Mis áreas son el desarrollo Web y desarrollo Android.<br>
     </i><br>
+    <a href="https://github.com/felipebrunet/" target="_blank">
+        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="LinkedIn">
+    </a>&nbsp;    
     <a href="https://www.linkedin.com/in/felipebrunet/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>&nbsp;
@@ -25,41 +28,45 @@ description: Perfil profesional de Felipe Brunet
     </a>&nbsp;
 </p>
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/felipebrunet)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/felipebrunet)
-[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)](https://github.com/felipebrunet)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/felipebrunet)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/felipebrunet)
+### Lenguajes
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
-### Technologies & Frameworks
-[![Anaconda](https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda)](https://hub.docker.com/u/felipebrunet)
-[![Wordpress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://github.com/felipebrunet)
-[![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/felipebrunet)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/felipebrunet)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/felipebrunet)
-[![Jekyll](https://img.shields.io/badge/jekyll-black?style=for-the-badge&logo=jekyll)](https://hub.docker.com/u/felipebrunet)
+### Tecnologías & Frameworks
+![Anaconda](https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda)
+![Wordpress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)
+![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![Jekyll](https://img.shields.io/badge/jekyll-black?style=for-the-badge&logo=jekyll)
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/felipebrunet)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/felipebrunet)
+### Sistemas operativos
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
-<!-- <details> -->
-<p align="center">
+<div align="center">
+<details><summary>Detalles Github</summary>
   <a href="https://github.com/felipebrunet">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" />
-  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" style="clip-path: inset(0px 450px 0px 0 round 50px);"/>
+  </a><br>
+    <a href="https://github.com/felipebrunet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" style="clip-path: inset(0px 0px 0px 230px); margin-left:-220px"/>
+  </a><br>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipebrunet&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  </a><br>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipebrunet&theme=transparent" />
-  </a>
+  </a><br>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrunet&langs_count=10"/>
-  </a>
-</p>
-<!-- </details> -->
+  </a><br>
+  </details>
+
+</div>
 
 <!--
 
