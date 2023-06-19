@@ -15,10 +15,12 @@ description: Proyectos realizados
   {% endfor %}
 </ul>
 
+
 <br>
 <br>
 <h1>Proyectos en curso</h1>
 <br>
+
 
 <ul>
   {% for post in site.posts %}
@@ -30,4 +32,8 @@ description: Proyectos realizados
     {% endif %}
   {% endfor %}
 </ul>
+
+
+
+
 
