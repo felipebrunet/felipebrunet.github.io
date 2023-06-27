@@ -1,7 +1,7 @@
 ---
 layout: post
 author: felipe
-status: WIP
+status: done
 ---
 
 <p>Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o incluso una Lightning Address (WIP). </p>
