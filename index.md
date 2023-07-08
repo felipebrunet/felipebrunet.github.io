@@ -12,7 +12,7 @@ description: Perfil profesional de Felipe Brunet
         Mis áreas son el desarrollo Web y desarrollo Android.<br>
     </i><br>
     <a href="https://github.com/felipebrunet/" target="_blank">
-        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="Github">
     </a>&nbsp;    
     <a href="https://www.linkedin.com/in/felipebrunet/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -21,7 +21,7 @@ description: Perfil profesional de Felipe Brunet
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>&nbsp;
     <a href="https://wa.me/56975716284" target="_blank">
-        <img src="https://img.shields.io/badge/whatsapp-darkblue?style=for-the-badge&logo=whatsapp" alt="LeetCode">
+        <img src="https://img.shields.io/badge/whatsapp-darkblue?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
     </a>&nbsp;
     <a href="https://t.me/sandbeach123" target="_blank">
         <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">

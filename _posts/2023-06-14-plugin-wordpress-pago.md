@@ -1,7 +1,7 @@
 ---
 layout: post
 author: felipe
-status: WIP
+status: done
 ---
 Proyecto Plugin de Wordpress para habilitar opción de pago con Bitcoin Lightning directo a cuenta en Buda.com, para luego convertirlo y depositarlo en moneda local.
 
