@@ -4,7 +4,7 @@ type: post
 date: 2023-04-10
 tags: ["Android", "Bitcoin Lightning"]
 image: ""
-draft: true
+draft: false
 showTableOfContents: false
 ---
 

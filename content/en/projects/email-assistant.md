@@ -4,7 +4,7 @@ type: post
 date: 2023-08-10
 tags: ["Python", "AI", "Obsidian", "Telegram"]
 image: ""
-draft: true
+draft: false
 showTableOfContents: false
 ---
 
