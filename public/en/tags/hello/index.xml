@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on Felipe Brunet</title>
+    <link>/en/tags/hello/</link>
+    <description>Recent content in Hello on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bitcoin tutorial for everyone</title>
+      <link>/en/posts/btc-tutorial/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/btc-tutorial/</guid>
+      <description>Try Bitcoin There is this great tutorial site anyone can follow about bitcoin and public key cryptography. https://trybitcoin.satsie.dev/
+There is also a spanish version that I translated actually.</description>
+    </item>
+    
+  </channel>
+</rss>

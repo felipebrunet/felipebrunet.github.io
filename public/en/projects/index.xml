@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Felipe Brunet</title>
+    <link>/en/projects/</link>
+    <description>Recent content in Projects on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Assistant Tool</title>
+      <link>/en/projects/email-assistant/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/email-assistant/</guid>
+      <description>Assistant that can read emails and define urgencies. It uses AI, python, Obsidian and other tools.
+It is a private repo for now.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Ecommerce Site</title>
+      <link>/en/projects/ecom-site/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/ecom-site/</guid>
+      <description>bitpointburger.cl
+Great smashed burgers in Pichilemu, Chile.
+Site made with Wordpress, Woocommerce and very few plugins, to maximize speed and responsiveness. Includes traditional payment gateways and also Bitcoin Lightning payments with the LN Pagos Latam plugin.</description>
+    </item>
+    
+    <item>
+      <title>LN Pagos Latam</title>
+      <link>/en/projects/ln-pagos-latam/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/ln-pagos-latam/</guid>
+      <description>A Wordpress plugin to enable Bitcoin Lightning payments straight to the merchant&amp;rsquo;s account in Buda. The is a merchant can offer bitcoin payments and still be able to easily receive local currency, by selling and transfer the money from the exchange to the merchant&amp;rsquo;s bank account. The Github repository URL is the following:
+https://github.com/felipebrunet/lnpagos-latam</description>
+    </item>
+    
+    <item>
+      <title>Icripto POS</title>
+      <link>/en/projects/icripto-pos/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/icripto-pos/</guid>
+      <description>Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o incluso una Lightning Address (WIP).
+Links asociados:
+URL Play Store Repositorio Github Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).
+De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets.</description>
+    </item>
+    
+  </channel>
+</rss>

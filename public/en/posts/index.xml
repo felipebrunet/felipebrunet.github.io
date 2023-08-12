@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Felipe Brunet</title>
+    <link>/en/posts/</link>
+    <description>Recent content in Posts on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icripto POS Privacy Policy</title>
+      <link>/en/posts/icripto-pos-priv-policy/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/icripto-pos-priv-policy/</guid>
+      <description>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We do not use nor collect your Personal Data.
+Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</description>
+    </item>
+    
+    <item>
+      <title>A Bitcoin tutorial for everyone</title>
+      <link>/en/posts/btc-tutorial/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/btc-tutorial/</guid>
+      <description>Try Bitcoin There is this great tutorial site anyone can follow about bitcoin and public key cryptography. https://trybitcoin.satsie.dev/
+There is also a spanish version that I translated actually.</description>
+    </item>
+    
+  </channel>
+</rss>

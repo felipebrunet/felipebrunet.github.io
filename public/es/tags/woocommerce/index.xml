@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woocommerce on Felipe Brunet</title>
+    <link>/es/tags/woocommerce/</link>
+    <description>Recent content in Woocommerce on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CL</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sitio ecommerce integrado con Bitcoin</title>
+      <link>/es/projects/ecom-site/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/es/projects/ecom-site/</guid>
+      <description>Las mejores smash burgers de Pichilemu están en bitpointburger.cl
+Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.
+Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin LN Pagos Latam.</description>
+    </item>
+    
+  </channel>
+</rss>

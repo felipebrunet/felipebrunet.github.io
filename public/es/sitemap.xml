@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/es/</loc>
-    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -15,17 +15,63 @@
                 href="/es/"
                 />
   </url><url>
-    <loc>/es/tags/hola/</loc>
-    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <loc>/es/projects/email-assistant/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/projects/email-assistant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/projects/email-assistant/"
+                />
   </url><url>
-    <loc>/es/tags/introducci%C3%B3n/</loc>
-    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <loc>/es/tags/ia/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/es/posts/</loc>
-    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <loc>/es/tags/obsidian/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/obsidian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/obsidian/"
+                />
+  </url><url>
+    <loc>/es/projects/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/projects/"
+                />
+  </url><url>
+    <loc>/es/tags/python/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/python/"
+                />
   </url><url>
     <loc>/es/tags/</loc>
-    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -37,8 +83,170 @@
                 href="/es/tags/"
                 />
   </url><url>
+    <loc>/es/tags/telegram/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/telegram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/telegram/"
+                />
+  </url><url>
+    <loc>/es/tags/bitcoin-lightning/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/bitcoin-lightning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/bitcoin-lightning/"
+                />
+  </url><url>
+    <loc>/es/tags/e-commerce/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/e-commerce/"
+                />
+  </url><url>
+    <loc>/es/tags/hamburguesas/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/es/projects/ecom-site/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/projects/ecom-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/projects/ecom-site/"
+                />
+  </url><url>
+    <loc>/es/tags/woocommerce/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/woocommerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/woocommerce/"
+                />
+  </url><url>
+    <loc>/es/tags/wordpress/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/wordpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/wordpress/"
+                />
+  </url><url>
+    <loc>/es/tags/android/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/tags/android/"
+                />
+  </url><url>
+    <loc>/es/posts/icripto-pos-priv-policy/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/posts/icripto-pos-priv-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/posts/icripto-pos-priv-policy/"
+                />
+  </url><url>
+    <loc>/es/posts/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/posts/"
+                />
+  </url><url>
+    <loc>/es/projects/ln-pagos-latam/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/projects/ln-pagos-latam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/projects/ln-pagos-latam/"
+                />
+  </url><url>
+    <loc>/es/tags/hola/</loc>
+    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/es/tags/introducci%C3%B3n/</loc>
+    <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/es/posts/btc-tutorial/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/posts/btc-tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/posts/btc-tutorial/"
+                />
+  </url><url>
+    <loc>/es/projects/icripto-pos/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/projects/icripto-pos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="/es/projects/icripto-pos/"
+                />
   </url><url>
     <loc>/es/index-about-es/</loc>
   </url><url>

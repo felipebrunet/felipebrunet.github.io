@@ -5,6 +5,115 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Felipe Brunet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>/en/tags/ai/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obsidian</title>
+      <link>/en/tags/obsidian/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/en/tags/python/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telegram</title>
+      <link>/en/tags/telegram/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Lightning</title>
+      <link>/en/tags/bitcoin-lightning/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/bitcoin-lightning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burgers</title>
+      <link>/en/tags/burgers/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/burgers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Commerce</title>
+      <link>/en/tags/e-commerce/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woocommerce</title>
+      <link>/en/tags/woocommerce/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/woocommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>/en/tags/wordpress/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>/en/tags/android/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/en/tags/hello/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/en/tags/introduction/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on Felipe Brunet</title>
+    <link>/es/tags/telegram/</link>
+    <description>Recent content in Telegram on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CL</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herramienta de asistente de emails</title>
+      <link>/es/projects/email-assistant/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/es/projects/email-assistant/</guid>
+      <description>Asistente que lee los correos y define las urgencias. Usa IA, python, Obsidian y algunas otras herramientas.
+Por ahora es un repositorio privado.</description>
+    </item>
+    
+  </channel>
+</rss>
