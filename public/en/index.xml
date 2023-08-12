@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Brunet</title>
+    <link>/en/</link>
+    <description>Recent content on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/en/index-about-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/index-about-en/</guid>
+      <description>Languages Techs and Frameworks OS 🔭 I’m currently working on an Android POS app and a Wordpress plugin for btc payments. 🌱 I’m currently learning Kotlin and Hugo. 👯 I’m looking to collaborate on E-Commerce payment gateways. 💬 Ask me about anything. </description>
+    </item>
+    
+  </channel>
+</rss>

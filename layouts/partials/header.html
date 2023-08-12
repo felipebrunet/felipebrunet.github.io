@@ -1,0 +1,60 @@
+<header class="header">
+    <nav class="header-nav">
+        {{ if isset .Site.Params "avatarurl" }}
+        <div class="avatar">
+            <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}">
+                <img src="{{ .Site.BaseURL }}{{ .Site.Params.AvatarURL }}" alt="{{ .Site.Params.AvatarAltText|default "avatar" }}" />
+            </a>
+        </div>
+        
+        
+        {{ end }}        
+        <div class="nav-title">
+            <a class="nav-brand" href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}">{{ .Site.Title }} 
+            </a>
+        </div>
+        
+        {{ range $.Site.Home.AllTranslations }}
+            <div class="nav-title">
+                <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            </div>
+        {{ end }}
+        
+        
+        <div class="nav-links">
+            {{ range .Site.Menus.main }}
+            <div class="nav-link">
+                <a href="{{ .URL | absURL }}">
+                    {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+                </a>
+            </div>
+
+            
+            {{ end }}
+            <div class="nav-title nav-item dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+            <!-- For mobile -->
+            <ul class="nav-hamburger-list visibility-hidden">
+                {{ range .Site.Menus.main }}
+                <li class="nav-item">
+                    <a href="{{ .URL | absURL }}">
+                        {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+
+        </div>
+    </nav>
+</header>

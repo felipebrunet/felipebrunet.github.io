@@ -1,0 +1,140 @@
+baseURL = '/'
+languageCode = 'en'
+title = 'Felipe Brunet'
+theme = 'gokarna'
+defaultContentLanguage= 'en'
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    languageCode = "en-US"
+    contentDir = 'content/en'
+    disabled = false
+    languageDirection = 'ltr'
+    languageName = "En"
+    title = "Felipe Brunet"
+    weight = 1
+    description = """<h3><img src="/images/hello.gif" width="38px" alt="👋">
+    Hello!!!</h3><h4> 
+    I am Felipe.<br>I do Web and Android development.</h4>
+    """
+
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Home"
+        identifier = "home"
+        pre = "<span data-feather='home'></span>"
+        url = "/en"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "About"
+        identifier = "about"
+        pre = "<span data-feather='info'></span>"
+        url = "en/about"
+        post = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        name = "Projects"
+        identifier = "projects"
+        pre = "<span data-feather='briefcase'></span>"
+        url = "en/projects"
+        post = ""
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "Posts"
+        identifier = "posts"
+        pre = "<span data-feather='feather'></span>"
+        url = "en/posts/"
+        post = ""
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "buymeacoffee"
+        pre = "<span data-feather='coffee'></span>"
+        url = "https://www.buymeacoffee.com/felipebrunet"
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        pre = "<span data-feather='rss'></span>"
+        url = "/index.xml"
+        weight = 6
+
+  [languages.es]
+    languageCode = "es-CL"
+    contentDir = 'content/es'
+    disabled = false
+    languageDirection = 'ltr'
+    languageName = "Es"
+    title = "Felipe Brunet"
+    weight = 1
+    description = """<h3><img src="/images/hello.gif" width="38px" alt="👋">
+    Hola!!!</h3><h4> 
+    Soy Felipe.<br>Hago desarrollos Web y Android.</h4>
+    """
+
+
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Home"
+        identifier = "home"
+        pre = "<span data-feather='home'></span>"
+        url = "/es"
+        weight = 1
+      [[languages.es.menu.main]]
+        name = "Acerca de"
+        identifier = "about"
+        pre = "<span data-feather='info'></span>"
+        url = "es/about"
+        post = ""
+        weight = 2
+      [[languages.es.menu.main]]
+        name = "Proyectos"
+        identifier = "proyectos"
+        pre = "<span data-feather='briefcase'></span>"
+        url = "es/projects"
+        post = ""
+        weight = 3
+      [[languages.es.menu.main]]
+        name = "Posts"
+        identifier = "posts"
+        pre = "<span data-feather='feather'></span>"
+        url = "es/posts"
+        post = ""
+        weight = 4
+      [[languages.es.menu.main]]
+        identifier = "buymeacoffee"
+        pre = "<span data-feather='coffee'></span>"
+        url = "https://www.buymeacoffee.com/felipebrunet"
+        weight = 5
+      [[languages.es.menu.main]]
+        identifier = "rss"
+        pre = "<span data-feather='rss'></span>"
+        url = "/index.xml"
+        weight = 6
+
+
+[params]  
+  footer = "Felipe Brunet"
+  metaKeyWords = ["Web Development", "Android", "Open Source", "Ecommerce"]
+  avatarURL = "/images/profile.jpg"
+  #togglePreviousAndNextButtons = "true"
+  #customHeadHTML = "<script>alert(\"hello\")</script>"
+  showLanguageSelector = true
+
+
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/felipebrunet/"},
+    {name = "whatsapp", url = "https://wa.me/56975716284"},
+    {name = "email", url = "mailto:felipe.brunet@gmail.com"},
+    {name = "telegram", url = "https://t.me/sandbeach123"},
+    {name = "github", url = "https://github.com/felipebrunet/"}
+  ]
+
+
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Felipe Brunet</title>
+    <link>/es/tags/</link>
+    <description>Recent content in Tags on Felipe Brunet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CL</language>
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola</title>
+      <link>/es/tags/hola/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/hola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducción</title>
+      <link>/es/tags/introducci%C3%B3n/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/introducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
