@@ -15,7 +15,7 @@ enableRobotsTXT = true
     languageName = "En"
     title = "Felipe Brunet"
     weight = 1
-    description = """<h3><img src="/images/hello.gif" width="38px" alt="👋">
+    description = """<h3>👋
     Hello!!!</h3><h4> 
     I am Felipe.<br>I do Web and Android development.</h4>
     """
@@ -68,9 +68,9 @@ enableRobotsTXT = true
     languageName = "Es"
     title = "Felipe Brunet"
     weight = 1
-    description = """<h3><img src="/images/hello.gif" width="38px" alt="👋">
-    Hola!!!</h3><h4> 
-    Soy Felipe.<br>Hago desarrollos Web y Android.</h4>
+    description = """<h3>👋
+    Hola!!!</h3>
+    <h4>Soy Felipe.<br>Hago desarrollos Web y Android.</h4>
     """
 
 
@@ -127,7 +127,7 @@ enableRobotsTXT = true
     {name = "linkedin", url = "https://www.linkedin.com/in/felipebrunet/"},
     {name = "whatsapp", url = "https://wa.me/56975716284"},
     {name = "email", url = "mailto:felipe.brunet@gmail.com"},
-    {name = "telegram", url = "https://t.me/sandbeach123"},
+    {name = "telegram", url = "https://t.me/felipebrunet"},
     {name = "github", url = "https://github.com/felipebrunet/"}
   ]
 
