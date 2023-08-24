@@ -119,7 +119,15 @@ enableRobotsTXT = true
   metaKeyWords = ["Web Development", "Android", "Open Source", "Ecommerce"]
   avatarURL = "/images/profile.jpg"
   #togglePreviousAndNextButtons = "true"
-  #customHeadHTML = "<script>alert(\"hello\")</script>"
+  customHeadHTML = """<!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-88H6JV6DJJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-88H6JV6DJJ');
+  </script>"""
+  
   showLanguageSelector = true
 
 
