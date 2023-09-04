@@ -17,7 +17,7 @@ enableRobotsTXT = true
     weight = 1
     description = """<h3>👋
     Hello!!!</h3><h4> 
-    I am Felipe.<br>I do Web and Android development.</h4>
+    I am Felipe.<br>I do development in open source (Python, SQL, Kotlin, PHP). Planning specialist as well.</h4>
     """
 
 
@@ -70,7 +70,7 @@ enableRobotsTXT = true
     weight = 1
     description = """<h3>👋
     Hola!!!</h3>
-    <h4>Soy Felipe.<br>Hago desarrollos Web y Android.</h4>
+    <h4>Soy Felipe.<br>Hago desarrollos de código libre. También soy especialista en Planificación.</h4>
     """
 
 
