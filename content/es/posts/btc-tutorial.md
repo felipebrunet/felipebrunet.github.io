@@ -1,5 +1,5 @@
 ---
-title: "Un tutorial de Bitcoin para toda la familia"
+title: "Un tutorial de Bitcoin para cualquiera"
 date: 2023-05-08
 tags: ["Introducción", "Hola"]
 image: ""
