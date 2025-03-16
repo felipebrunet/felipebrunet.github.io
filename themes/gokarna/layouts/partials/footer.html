@@ -5,7 +5,7 @@
     {{ end }}
 
     {{ if .Site.Params.footer }}
-    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    <span>&copy; <script>document.write(new Date().getFullYear())</script> {{ now.Year }} {{ .Site.Params.Footer}}</span>
     {{ end }}
     <span>
         Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
