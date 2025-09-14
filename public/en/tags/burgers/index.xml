@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Burgers on Felipe Brunet</title>
-    <link>/en/tags/burgers/</link>
+    <link>//localhost:1313/en/tags/burgers/</link>
     <description>Recent content in Burgers on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/burgers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/tags/burgers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin Ecommerce Site</title>
-      <link>/en/projects/ecom-site/</link>
+      <link>//localhost:1313/en/projects/ecom-site/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/en/projects/ecom-site/</guid>
-      <description>bitpointburger.cl
-Great smashed burgers in Pichilemu, Chile.
-Site made with Wordpress, Woocommerce and very few plugins, to maximize speed and responsiveness. Includes traditional payment gateways and also Bitcoin Lightning payments with the LN Pagos Latam plugin.</description>
+      <guid>//localhost:1313/en/projects/ecom-site/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bitpointburger.cl&#34;&gt;bitpointburger.cl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Great smashed burgers in Pichilemu, Chile.&lt;/p&gt;&#xA;&lt;p&gt;Site made with Wordpress, Woocommerce and very few plugins, to maximize speed and responsiveness.&#xA;Includes traditional payment gateways and also Bitcoin Lightning payments with the &lt;a href=&#34;//localhost:1313/en/projects/ln-pagos-latam/&#34;&gt;LN Pagos Latam&lt;/a&gt; plugin.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,56 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bitcoin Lightning on Felipe Brunet</title>
-    <link>/es/tags/bitcoin-lightning/</link>
+    <link>//localhost:1313/es/tags/bitcoin-lightning/</link>
     <description>Recent content in Bitcoin Lightning on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-CL</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/bitcoin-lightning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/bitcoin-lightning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitio ecommerce integrado con Bitcoin</title>
-      <link>/es/projects/ecom-site/</link>
+      <link>//localhost:1313/es/projects/ecom-site/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ecom-site/</guid>
-      <description>Las mejores smash burgers de Pichilemu están en bitpointburger.cl
-Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.
-Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin LN Pagos Latam.</description>
+      <guid>//localhost:1313/es/projects/ecom-site/</guid>
+      <description>&lt;p&gt;Las mejores smash burgers de Pichilemu están en &lt;a href=&#34;https://www.bitpointburger.cl&#34;&gt;bitpointburger.cl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.&lt;/p&gt;&#xA;&lt;p&gt;Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin &lt;a href=&#34;//localhost:1313/es/projects/ln-pagos-latam/&#34;&gt;LN Pagos Latam&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Icripto POS Privacy Policy</title>
-      <link>/es/posts/icripto-pos-priv-policy/</link>
+      <link>//localhost:1313/es/posts/icripto-pos-priv-policy/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/posts/icripto-pos-priv-policy/</guid>
-      <description>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-We do not use nor collect your Personal Data.
-Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</description>
+      <guid>//localhost:1313/es/posts/icripto-pos-priv-policy/</guid>
+      <description>&lt;p&gt;This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&lt;/p&gt;&#xA;&lt;p&gt;We do not use nor collect your Personal Data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interpretation-and-definitions&#34;&gt;Interpretation and Definitions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;&#xA;&lt;p&gt;The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LN Pagos Latam</title>
-      <link>/es/projects/ln-pagos-latam/</link>
+      <link>//localhost:1313/es/projects/ln-pagos-latam/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ln-pagos-latam/</guid>
-      <description>Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.
-De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor. El repositorio de Github es el siguiente:
-https://github.com/felipebrunet/lnpagos-latam
-Prontamente estará publicado en el portal de plugins de Wordpress.</description>
+      <guid>//localhost:1313/es/projects/ln-pagos-latam/</guid>
+      <description>&lt;p&gt;Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.&lt;/p&gt;&#xA;&lt;p&gt;De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor.&#xA;El repositorio de Github es el siguiente:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/felipebrunet/lnpagos-latam&#34;&gt;https://github.com/felipebrunet/lnpagos-latam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prontamente estará publicado en el portal de plugins de Wordpress.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Icripto POS</title>
-      <link>/es/projects/icripto-pos/</link>
+      <link>//localhost:1313/es/projects/icripto-pos/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/icripto-pos/</guid>
-      <description>Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o directamente hacia algunos exchanges
-Links asociados:
-URL Play Store Repositorio Github Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).
-De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets.</description>
+      <guid>//localhost:1313/es/projects/icripto-pos/</guid>
+      <description>&lt;p&gt;Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o directamente hacia algunos exchanges&lt;/p&gt;&#xA;&lt;p&gt;Links asociados:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=cl.icripto.icriptopos&#34;&gt;URL Play Store&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/felipebrunet/icriptopos&#34;&gt;Repositorio Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).&lt;/p&gt;&#xA;&lt;p&gt;De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets. La app posee un pin de seguridad que es determinado por el usuario propietario, con lo que es seguro configurar cualquier dispositivo android con la app, pudiendo configurarse varios dispositivos para el mismo servicio o cuenta de bitcoin. Finalmente, esta app no se conecta con ningun servicio que no sea el definido por el usuario, con lo que la seguridad y privacidad de los datos del usuario y sus clientes se mantiene intacta.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

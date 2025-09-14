@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-Commerce on Felipe Brunet</title>
-    <link>/es/tags/e-commerce/</link>
+    <link>//localhost:1313/es/tags/e-commerce/</link>
     <description>Recent content in E-Commerce on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-CL</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitio ecommerce integrado con Bitcoin</title>
-      <link>/es/projects/ecom-site/</link>
+      <link>//localhost:1313/es/projects/ecom-site/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ecom-site/</guid>
-      <description>Las mejores smash burgers de Pichilemu están en bitpointburger.cl
-Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.
-Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin LN Pagos Latam.</description>
+      <guid>//localhost:1313/es/projects/ecom-site/</guid>
+      <description>&lt;p&gt;Las mejores smash burgers de Pichilemu están en &lt;a href=&#34;https://www.bitpointburger.cl&#34;&gt;bitpointburger.cl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.&lt;/p&gt;&#xA;&lt;p&gt;Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin &lt;a href=&#34;//localhost:1313/es/projects/ln-pagos-latam/&#34;&gt;LN Pagos Latam&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LN Pagos Latam</title>
-      <link>/es/projects/ln-pagos-latam/</link>
+      <link>//localhost:1313/es/projects/ln-pagos-latam/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ln-pagos-latam/</guid>
-      <description>Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.
-De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor. El repositorio de Github es el siguiente:
-https://github.com/felipebrunet/lnpagos-latam
-Prontamente estará publicado en el portal de plugins de Wordpress.</description>
+      <guid>//localhost:1313/es/projects/ln-pagos-latam/</guid>
+      <description>&lt;p&gt;Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.&lt;/p&gt;&#xA;&lt;p&gt;De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor.&#xA;El repositorio de Github es el siguiente:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/felipebrunet/lnpagos-latam&#34;&gt;https://github.com/felipebrunet/lnpagos-latam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prontamente estará publicado en el portal de plugins de Wordpress.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

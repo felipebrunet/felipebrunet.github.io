@@ -2,276 +2,276 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/tags/ai/</loc>
+    <loc>//localhost:1313/en/tags/ai/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/projects/email-assistant/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-CL"
-                href="/es/projects/email-assistant/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="/en/projects/email-assistant/"
-                />
-  </url><url>
-    <loc>/en/</loc>
+    <loc>//localhost:1313/en/projects/email-assistant/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/"
+                href="//localhost:1313/es/projects/email-assistant/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/"
+                href="//localhost:1313/en/projects/email-assistant/"
                 />
   </url><url>
-    <loc>/en/tags/obsidian/</loc>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/obsidian/"
+                href="//localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/obsidian/"
+                href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>/en/projects/</loc>
+    <loc>//localhost:1313/en/tags/obsidian/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/projects/"
+                href="//localhost:1313/es/tags/obsidian/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/projects/"
+                href="//localhost:1313/en/tags/obsidian/"
                 />
   </url><url>
-    <loc>/en/tags/python/</loc>
+    <loc>//localhost:1313/en/projects/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/python/"
+                href="//localhost:1313/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/python/"
+                href="//localhost:1313/en/projects/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>//localhost:1313/en/tags/python/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/"
+                href="//localhost:1313/es/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/"
+                href="//localhost:1313/en/tags/python/"
                 />
   </url><url>
-    <loc>/en/tags/telegram/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/telegram/"
+                href="//localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/telegram/"
+                href="//localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>/en/projects/ecom-site/</loc>
+    <loc>//localhost:1313/en/tags/telegram/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="//localhost:1313/es/tags/telegram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/tags/telegram/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/projects/ecom-site/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/projects/ecom-site/"
+                href="//localhost:1313/es/projects/ecom-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/projects/ecom-site/"
+                href="//localhost:1313/en/projects/ecom-site/"
                 />
   </url><url>
-    <loc>/en/tags/bitcoin-lightning/</loc>
+    <loc>//localhost:1313/en/tags/bitcoin-lightning/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/bitcoin-lightning/"
+                href="//localhost:1313/es/tags/bitcoin-lightning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/bitcoin-lightning/"
+                href="//localhost:1313/en/tags/bitcoin-lightning/"
                 />
   </url><url>
-    <loc>/en/tags/burgers/</loc>
+    <loc>//localhost:1313/en/tags/burgers/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/e-commerce/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-CL"
-                href="/es/tags/e-commerce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="/en/tags/e-commerce/"
-                />
-  </url><url>
-    <loc>/en/tags/woocommerce/</loc>
+    <loc>//localhost:1313/en/tags/e-commerce/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/woocommerce/"
+                href="//localhost:1313/es/tags/e-commerce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/woocommerce/"
+                href="//localhost:1313/en/tags/e-commerce/"
                 />
   </url><url>
-    <loc>/en/tags/wordpress/</loc>
+    <loc>//localhost:1313/en/tags/woocommerce/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/wordpress/"
+                href="//localhost:1313/es/tags/woocommerce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/wordpress/"
+                href="//localhost:1313/en/tags/woocommerce/"
                 />
   </url><url>
-    <loc>/en/tags/android/</loc>
+    <loc>//localhost:1313/en/tags/wordpress/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-CL"
+                href="//localhost:1313/es/tags/wordpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/tags/wordpress/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/android/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/tags/android/"
+                href="//localhost:1313/es/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/android/"
+                href="//localhost:1313/en/tags/android/"
                 />
   </url><url>
-    <loc>/en/posts/icripto-pos-priv-policy/</loc>
+    <loc>//localhost:1313/en/posts/icripto-pos-priv-policy/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/posts/icripto-pos-priv-policy/"
+                href="//localhost:1313/es/posts/icripto-pos-priv-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/posts/icripto-pos-priv-policy/"
+                href="//localhost:1313/en/posts/icripto-pos-priv-policy/"
                 />
   </url><url>
-    <loc>/en/posts/</loc>
+    <loc>//localhost:1313/en/posts/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/posts/"
+                href="//localhost:1313/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/posts/"
+                href="//localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>/en/projects/ln-pagos-latam/</loc>
+    <loc>//localhost:1313/en/projects/ln-pagos-latam/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/projects/ln-pagos-latam/"
+                href="//localhost:1313/es/projects/ln-pagos-latam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/projects/ln-pagos-latam/"
+                href="//localhost:1313/en/projects/ln-pagos-latam/"
                 />
   </url><url>
-    <loc>/en/posts/btc-tutorial/</loc>
+    <loc>//localhost:1313/en/posts/btc-tutorial/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/posts/btc-tutorial/"
+                href="//localhost:1313/es/posts/btc-tutorial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/posts/btc-tutorial/"
+                href="//localhost:1313/en/posts/btc-tutorial/"
                 />
   </url><url>
-    <loc>/en/tags/hello/</loc>
+    <loc>//localhost:1313/en/tags/hello/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/introduction/</loc>
+    <loc>//localhost:1313/en/tags/introduction/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/projects/icripto-pos/</loc>
+    <loc>//localhost:1313/en/projects/icripto-pos/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/projects/icripto-pos/"
+                href="//localhost:1313/es/projects/icripto-pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/projects/icripto-pos/"
+                href="//localhost:1313/en/projects/icripto-pos/"
                 />
   </url><url>
-    <loc>/en/index-about-en/</loc>
+    <loc>//localhost:1313/en/index-about-en/</loc>
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>//localhost:1313/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/about/"
+                href="//localhost:1313/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/about/"
+                href="//localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="/es/categories/"
+                href="//localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
   </url>
 </urlset>

@@ -2,31 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-Commerce on Felipe Brunet</title>
-    <link>/en/tags/e-commerce/</link>
+    <link>//localhost:1313/en/tags/e-commerce/</link>
     <description>Recent content in E-Commerce on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin Ecommerce Site</title>
-      <link>/en/projects/ecom-site/</link>
+      <link>//localhost:1313/en/projects/ecom-site/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/en/projects/ecom-site/</guid>
-      <description>bitpointburger.cl
-Great smashed burgers in Pichilemu, Chile.
-Site made with Wordpress, Woocommerce and very few plugins, to maximize speed and responsiveness. Includes traditional payment gateways and also Bitcoin Lightning payments with the LN Pagos Latam plugin.</description>
+      <guid>//localhost:1313/en/projects/ecom-site/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bitpointburger.cl&#34;&gt;bitpointburger.cl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Great smashed burgers in Pichilemu, Chile.&lt;/p&gt;&#xA;&lt;p&gt;Site made with Wordpress, Woocommerce and very few plugins, to maximize speed and responsiveness.&#xA;Includes traditional payment gateways and also Bitcoin Lightning payments with the &lt;a href=&#34;//localhost:1313/en/projects/ln-pagos-latam/&#34;&gt;LN Pagos Latam&lt;/a&gt; plugin.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LN Pagos Latam</title>
-      <link>/en/projects/ln-pagos-latam/</link>
+      <link>//localhost:1313/en/projects/ln-pagos-latam/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/en/projects/ln-pagos-latam/</guid>
-      <description>A Wordpress plugin to enable Bitcoin Lightning payments straight to the merchant&amp;rsquo;s account in Buda. The is a merchant can offer bitcoin payments and still be able to easily receive local currency, by selling and transfer the money from the exchange to the merchant&amp;rsquo;s bank account. The Github repository URL is the following:
-https://github.com/felipebrunet/lnpagos-latam</description>
+      <guid>//localhost:1313/en/projects/ln-pagos-latam/</guid>
+      <description>&lt;p&gt;A Wordpress plugin to enable Bitcoin Lightning payments straight to the merchant&amp;rsquo;s account in Buda.&#xA;The is a merchant can offer bitcoin payments and still be able to easily receive local currency, by selling and transfer the money from the exchange to the merchant&amp;rsquo;s bank account.&#xA;The Github repository URL is the following:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/felipebrunet/lnpagos-latam&#34;&gt;https://github.com/felipebrunet/lnpagos-latam&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

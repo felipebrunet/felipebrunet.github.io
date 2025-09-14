@@ -17,7 +17,7 @@
         <p>
             {{ .Content }}
         </p>
-        {{ if .Site.DisqusShortname }}
+        {{ if and .Site.Params.enableDisqus .Site.DisqusShortname }}
         <div class="post-comments">
             {{ template "_internal/disqus.html" . }}
         </div>

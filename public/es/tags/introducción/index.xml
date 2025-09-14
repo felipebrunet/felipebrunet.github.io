@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introducción on Felipe Brunet</title>
-    <link>/es/tags/introducci%C3%B3n/</link>
+    <link>//localhost:1313/es/tags/introducci%C3%B3n/</link>
     <description>Recent content in Introducción on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-CL</language>
-    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/tags/introducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/introducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Un tutorial de Bitcoin para toda la familia</title>
-      <link>/es/posts/btc-tutorial/</link>
+      <title>Un tutorial de Bitcoin para cualquiera</title>
+      <link>//localhost:1313/es/posts/btc-tutorial/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/posts/btc-tutorial/</guid>
-      <description>Try Bitcoin Este es un excelente tutorial acerca de bitcoin y criptografía que cualquiera puede seguir. https://trybitcoin.satsie.dev/es.html</description>
+      <guid>//localhost:1313/es/posts/btc-tutorial/</guid>
+      <description>&lt;h3 id=&#34;try-bitcoin&#34;&gt;Try Bitcoin&lt;/h3&gt;&#xA;&lt;p&gt;Este es un excelente tutorial acerca de bitcoin y criptografía que cualquiera puede seguir.&#xA;&lt;a href=&#34;https://trybitcoin.satsie.dev/es.html&#34;&gt;https://trybitcoin.satsie.dev/es.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

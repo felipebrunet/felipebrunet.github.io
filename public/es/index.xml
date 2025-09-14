@@ -2,84 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felipe Brunet</title>
-    <link>/es/</link>
+    <link>//localhost:1313/es/</link>
     <description>Recent content on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-CL</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herramienta de asistente de emails</title>
-      <link>/es/projects/email-assistant/</link>
+      <link>//localhost:1313/es/projects/email-assistant/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/email-assistant/</guid>
-      <description>Asistente que lee los correos y define las urgencias. Usa IA, python, Obsidian y algunas otras herramientas.
-Por ahora es un repositorio privado.</description>
+      <guid>//localhost:1313/es/projects/email-assistant/</guid>
+      <description>&lt;p&gt;Asistente que lee los correos y define las urgencias.&#xA;Usa IA, python, Obsidian y algunas otras herramientas.&lt;/p&gt;&#xA;&lt;p&gt;Por ahora es un repositorio privado.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sitio ecommerce integrado con Bitcoin</title>
-      <link>/es/projects/ecom-site/</link>
+      <link>//localhost:1313/es/projects/ecom-site/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ecom-site/</guid>
-      <description>Las mejores smash burgers de Pichilemu están en bitpointburger.cl
-Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.
-Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin LN Pagos Latam.</description>
+      <guid>//localhost:1313/es/projects/ecom-site/</guid>
+      <description>&lt;p&gt;Las mejores smash burgers de Pichilemu están en &lt;a href=&#34;https://www.bitpointburger.cl&#34;&gt;bitpointburger.cl&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sitio desarrollado en Wordpress, usando Woocommerce y muy pocos plugins, para maximizar su rendimiento.&lt;/p&gt;&#xA;&lt;p&gt;Incluye los medios de pago tradicionales y pagos con Bitcoin Lighting, usando el plugin &lt;a href=&#34;//localhost:1313/es/projects/ln-pagos-latam/&#34;&gt;LN Pagos Latam&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Icripto POS Privacy Policy</title>
-      <link>/es/posts/icripto-pos-priv-policy/</link>
+      <link>//localhost:1313/es/posts/icripto-pos-priv-policy/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/posts/icripto-pos-priv-policy/</guid>
-      <description>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-We do not use nor collect your Personal Data.
-Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</description>
+      <guid>//localhost:1313/es/posts/icripto-pos-priv-policy/</guid>
+      <description>&lt;p&gt;This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&lt;/p&gt;&#xA;&lt;p&gt;We do not use nor collect your Personal Data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interpretation-and-definitions&#34;&gt;Interpretation and Definitions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;&#xA;&lt;p&gt;The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LN Pagos Latam</title>
-      <link>/es/projects/ln-pagos-latam/</link>
+      <link>//localhost:1313/es/projects/ln-pagos-latam/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/ln-pagos-latam/</guid>
-      <description>Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.
-De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor. El repositorio de Github es el siguiente:
-https://github.com/felipebrunet/lnpagos-latam
-Prontamente estará publicado en el portal de plugins de Wordpress.</description>
+      <guid>//localhost:1313/es/projects/ln-pagos-latam/</guid>
+      <description>&lt;p&gt;Un plugin de Wordpress que permite aceptar pagos con Bitcoin Lightning canalizados directamente a la cuenta en Buda del vendedor.&lt;/p&gt;&#xA;&lt;p&gt;De esta forma, el vendedor puede ofrecer pagos en Bitcoin Lightning y al mismo tiempo recibir el pago en moneda local, al vender el bitcoin y transferir el monto desde el exchange hacia la cuenta bancaria del vendedor.&#xA;El repositorio de Github es el siguiente:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/felipebrunet/lnpagos-latam&#34;&gt;https://github.com/felipebrunet/lnpagos-latam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Prontamente estará publicado en el portal de plugins de Wordpress.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Un tutorial de Bitcoin para toda la familia</title>
-      <link>/es/posts/btc-tutorial/</link>
+      <title>Un tutorial de Bitcoin para cualquiera</title>
+      <link>//localhost:1313/es/posts/btc-tutorial/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/posts/btc-tutorial/</guid>
-      <description>Try Bitcoin Este es un excelente tutorial acerca de bitcoin y criptografía que cualquiera puede seguir. https://trybitcoin.satsie.dev/es.html</description>
+      <guid>//localhost:1313/es/posts/btc-tutorial/</guid>
+      <description>&lt;h3 id=&#34;try-bitcoin&#34;&gt;Try Bitcoin&lt;/h3&gt;&#xA;&lt;p&gt;Este es un excelente tutorial acerca de bitcoin y criptografía que cualquiera puede seguir.&#xA;&lt;a href=&#34;https://trybitcoin.satsie.dev/es.html&#34;&gt;https://trybitcoin.satsie.dev/es.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Icripto POS</title>
-      <link>/es/projects/icripto-pos/</link>
+      <link>//localhost:1313/es/projects/icripto-pos/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/es/projects/icripto-pos/</guid>
-      <description>Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o directamente hacia algunos exchanges
-Links asociados:
-URL Play Store Repositorio Github Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).
-De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets.</description>
+      <guid>//localhost:1313/es/projects/icripto-pos/</guid>
+      <description>&lt;p&gt;Esta es una app que permite cobrar bitcoin usando distintos servicios de cobro de bitcoin, tales como LNBits, BTCPay o directamente hacia algunos exchanges&lt;/p&gt;&#xA;&lt;p&gt;Links asociados:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=cl.icripto.icriptopos&#34;&gt;URL Play Store&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/felipebrunet/icriptopos&#34;&gt;Repositorio Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Adicionalmente permite cobrar bitcoin dirigidos directamente a servicios de los exchanges Buda (Argentina, Chile, Colombia, Perú) y Bitaroo (Australia).&lt;/p&gt;&#xA;&lt;p&gt;De este modo es simple cobrar bitcoin en forma presencial, siendo esta app ideal para que incluso los dependientes y empleados puedan usar esta aplicacion desde sus celulares o tablets. La app posee un pin de seguridad que es determinado por el usuario propietario, con lo que es seguro configurar cualquier dispositivo android con la app, pudiendo configurarse varios dispositivos para el mismo servicio o cuenta de bitcoin. Finalmente, esta app no se conecta con ningun servicio que no sea el definido por el usuario, con lo que la seguridad y privacidad de los datos del usuario y sus clientes se mantiene intacta.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>/es/index-about-es/</link>
+      <link>//localhost:1313/es/index-about-es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/index-about-es/</guid>
-      <description>Lenguajes Tecnologías y Frameworks Sistemas operativos 🔭 Actualmente estoy trabajando en un terminal POS para Android y en un plugin de Wordpress para facilitar pagos con btc lightning. 🌱 Actualmente estoy aprendiendo Kotlin y el framework de sitios estáticos Hugo. 👯 Estoy buscando colaborar en E-Commerce. 💬 Consúltame lo que quieras. </description>
+      <guid>//localhost:1313/es/index-about-es/</guid>
+      <description>&lt;h3 id=&#34;lenguajes&#34;&gt;Lenguajes&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/python-black?style=for-the-badge&amp;amp;logo=python&#34; alt=&#34;Python&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;amp;logo=php&amp;amp;logoColor=white&#34; alt=&#34;PHP&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/Kotlin-black?style=for-the-badge&amp;amp;logo=Kotlin&#34; alt=&#34;Kotlin&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/bash-black?style=for-the-badge&amp;amp;logo=gnu-bash&amp;amp;logoColor=white&#34; alt=&#34;Bash&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/sql-black?style=for-the-badge&amp;amp;logo=mysql&#34; alt=&#34;SQL&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;tecnologías-y-frameworks&#34;&gt;Tecnologías y Frameworks&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/anaconda-black?style=for-the-badge&amp;amp;logo=anaconda&#34; alt=&#34;Anaconda&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/wordpress-black?style=for-the-badge&amp;amp;logo=wordpress&#34; alt=&#34;Wordpress&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/android-black?style=for-the-badge&amp;amp;logo=android&#34; alt=&#34;Android&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/html5-black?style=for-the-badge&amp;amp;logo=html5&#34; alt=&#34;HTML5&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/css3-black?style=for-the-badge&amp;amp;logo=css3&#34; alt=&#34;CSS3&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/jekyll-black?style=for-the-badge&amp;amp;logo=jekyll&#34; alt=&#34;Jekyll&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/hugo-black?style=for-the-badge&amp;amp;logo=hugo&#34; alt=&#34;Hugo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;sistemas-operativos&#34;&gt;Sistemas operativos&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/linux-black?style=for-the-badge&amp;amp;logo=Linux&#34; alt=&#34;Linux&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;amp;logo=Windows&#34; alt=&#34;Windows&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔭 Actualmente estoy trabajando en un terminal POS para Android y en un plugin de Wordpress para facilitar pagos con btc lightning.&lt;/li&gt;&#xA;&lt;li&gt;🌱 Actualmente estoy aprendiendo Kotlin y el framework de sitios estáticos Hugo.&lt;/li&gt;&#xA;&lt;li&gt;👯 Estoy buscando colaborar en E-Commerce.&lt;/li&gt;&#xA;&lt;li&gt;💬 Consúltame lo que quieras.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Un poco acerca de mí on Felipe Brunet</title>
-    <link>/es/about/</link>
+    <link>//localhost:1313/es/about/</link>
     <description>Recent content in Un poco acerca de mí on Felipe Brunet</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-CL</language><atom:link href="/es/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>es-CL</language>
+    <atom:link href="//localhost:1313/es/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
